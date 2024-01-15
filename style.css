@@ -1,0 +1,218 @@
+.navbar{
+    display: flex;
+    font-family: 'Poppins', sans-serif;
+    z-index: 10;
+    position:sticky;
+    top: 0;
+    background-color: white;
+}
+.logo{
+    height: 3.5rem;
+    width:5rem;
+    margin-left: 1rem;
+}
+.nav-menu{
+    color: #032D60;
+    font-family: 'Poppins', sans-serif;
+}
+.nav-1{
+    width: 58%;
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    height: 5rem;
+   
+}
+.contact{
+    align-items: center;
+    justify-content:space-between;
+    margin-left: 5rem;
+    font-size: small;
+}
+.contact-a{
+    margin-left: 0.75rem;
+    margin-bottom: 0.5rem;
+    text-decoration: underline;
+}
+.user{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+}
+.nav-2{
+    display: flex;
+    width: 40%;
+    align-items: center;
+    justify-content:space-between;
+    color: #032D60;
+    height: 5rem;
+}
+.try{
+    background-color: #2E844A;
+    color: white;
+    width: 9rem;
+    height: 3rem;
+    border-radius: 8px;
+    border-color: white;
+    font-family: 'Poppins', sans-serif;
+    padding: 4px 12px 4px 12px;
+    border: 2px;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+.banner{
+    height: 3rem;
+    background-color: #032D60;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.lines{
+    color: white;
+    font-size: 1rem;
+    font-family: 'Work Sans', sans-serif;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    font-weight: 600;
+}
+.df{
+    height: 1.5rem;
+    width: 5.5rem;
+}
+.watch{
+    text-decoration: underline;
+    color: white;
+    font-family: 'Work Sans', sans-serif;
+}
+.main-2{
+    display: flex;
+    height: 31rem;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+.text-main{
+    height: 31rem;
+    width: 31rem;
+    margin-left: 3rem;
+}
+.ad{
+    margin-left: 12rem;
+    height: 31rem;
+    width: 31rem;
+}
+h1{
+    color: #032D60;
+    font-size: 3rem;
+    font-family: 'Work Sans', sans-serif;
+}
+.main-p{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 1.1rem;
+    color: #181818;
+}
+.buttons{
+    display: flex;
+}
+.discover{
+    background-color: #0176D3;
+    font-size: 1rem;
+    color: white;
+    border: 2px;
+    border-radius: 5px;
+    padding: 0.75rem 2rem;
+    font-family: 'Work Sans', sans-serif;
+    margin-right: 2rem;
+}
+.demo{
+    border-radius: 5px;
+    padding: 0.75rem 2rem;
+    color: #0176D3;
+    border-color: #0176D3;
+    font-size: 1rem;
+    font-family: 'Work Sans', sans-serif;
+    background-color: white;
+}
+.headline{
+    color: #032D60;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+.cards{
+    display: flex;
+
+}
+.card-img{
+    height: 9rem;
+    width: 16.5rem;
+    border-radius: 10px 10px 0 0;
+}
+.card-txt{
+    margin: 1.5rem;
+}
+.card-txt h3{
+    color: #032D60;
+    font-size: 1rem;
+    font-family: 'Poppins', sans-serif;
+}
+.card-txt p{
+    font-size: 14px;
+    font-family: 'Work Sans', sans-serif;
+    color: #181818;
+}
+.card-txt a{
+    color: #032D60;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 1rem;
+    text-decoration: underline;
+}
+.card{
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+    box-shadow: 0 24px 48px -2px #18181820;
+}
+.button-2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.headline-p{
+    padding-left: 18rem;
+    padding-right: 18rem;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+.card-2{
+    margin-left: 2rem;
+    margin-right:2rem;
+    border-radius: 10px 10px 0 0;
+    box-shadow: 0 24px 48px -2px #18181820;
+    border: 0.667px;
+    padding: 24px;
+    width: 25rem;
+}
+.card-img-2{
+    height: 7.5rem;
+    width: 7.5rem;
+    margin-left: 6rem;
+}
+.module{
+    padding:5px 10px 5px 10px;
+    font-size: 0.75rem;
+    color: #032D60;
+    background-color: #1EA7FD33;
+    font-family: 'Work Sans', sans-serif;
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center;
+    width: 3.5em;
+}
+.nav-menu:hover{
+    color:blue;
+}
+.try:hover{
+    background-color: black;
+}
+.contact-a:hover{
+    color: blue;
+}
